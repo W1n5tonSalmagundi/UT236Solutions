@@ -24,26 +24,39 @@ You can add work and make directory changes as normal over github, or if you wan
 Some workings and solutions will not be added for silly sounding but important concerns like long term scalability and academic integrity. Currently, only problem set answers and test/exam answers are excluded.
 
 
+
 Frequently asked questions
 --------------------------
 
 To be filled.
 
 
+
 Anonymising files
 -----------------
 
 Summarized guides:
+
 Removing PDF metadata, Win, Mac, Lin:    pdftk & exiftool
+
 Images:                                  exiftool, and on Windows, PhotoMe and metanull
+
 Windows in general:			 metadata++, removing all properties in Windows Explorer
+
 Mac/Lin in general:			 exiftool
 
+
 See also:
+
 https://en.wikipedia.org/wiki/Comparison_of_metadata_editors
+
 https://en.wikipedia.org/wiki/ExifTool#Supported_file_types
 
+
 Some general info:
+
 General info:	 	    http://www.wefightcensorship.org/article/metadata-your-files-talk-youhtml.html
+
 Anonymising pdfs:      	    https://gist.github.com/hubgit/6078384
+
 General metadata stripping: https://securityinabox.org/en/lgbti-mena/remove-metadata/
