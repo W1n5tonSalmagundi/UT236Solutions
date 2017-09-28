@@ -1,7 +1,7 @@
 # UT236Solutions
 Student sourced workings, proofs, and solutions to exercises in the scope of UTM's CSC236 2017 course.
 
-If you want to see what devious way someone's solved an excercise, are on the hunt for clever tricks to learn and reproduce, or find out what it is that quick and effective solutions and proofs have in common, you've come to just the place.
+If you want to see what devious way someone's solved an exercise, are on the hunt for clever tricks to learn and reproduce, or find out what it is that quick and effective solutions and proofs have in common, you've come to just the place.
 
 
 Licensing contributions
@@ -11,7 +11,7 @@ By knowingly adding your work to this source, you agree to license your work und
 
 Summarized, this means you give up all rights to your work, while retaining some legal protections and disclaimers to your benefit.
 
-If you want to know more clearly what these disclaimers and protections are, you may wish to read part 4 of the license stated in [LICENSE.txt](https://github.com/W1n5tonSalmagundi/UT236Solutions/blob/master/README.md).
+If you want to know more clearly what these disclaimers and protections are, you may wish to read part 4 of the license stated in [LICENSE.txt](https://github.com/W1n5tonSalmagundi/UT236Solutions/blob/master/LICENSE.txt).
 
 
 Making contributions
