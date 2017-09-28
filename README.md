@@ -7,9 +7,9 @@ If you want to see what devious way someone's solved an exercise, are on the hun
 Licensing contributions
 -----------------------
 
-By knowingly adding your work to this source, you agree to license your work under the Creative Commons Zero Universal license.
+By knowingly adding your workings/solutions to this source, you agree to license your workings/solutions under the Creative Commons Zero Universal license.
 
-Summarized, this means you give up all rights to your work, while retaining some legal protections and disclaimers to your benefit.
+Summarized, this means you give up all rights to the work you've contributed, while retaining some legal protections and disclaimers to your benefit.
 
 If you want to know more clearly what these disclaimers and protections are, you may wish to read part 4 of the license stated in [LICENSE.txt](https://github.com/W1n5tonSalmagundi/UT236Solutions/blob/master/LICENSE.txt).
 
