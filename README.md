@@ -37,26 +37,20 @@ Anonymising files
 
 Summarized guides:
 
-Removing PDF metadata, Win, Mac, Lin:    pdftk & exiftool
-
-Images:                                  exiftool, and on Windows, PhotoMe and metanull
-
-Windows in general:			 metadata++, removing all properties in Windows Explorer
-
-Mac/Lin in general:			 exiftool
+* Removing PDF metadata, Win, Mac, Lin:    pdftk & exiftool
+* Images:                                  exiftool, and on Windows, PhotoMe and metanull
+* Windows in general:			 metadata++, removing all properties in Windows Explorer
+* Mac/Lin in general:			 exiftool
 
 
 See also:
 
-https://en.wikipedia.org/wiki/Comparison_of_metadata_editors
-
-https://en.wikipedia.org/wiki/ExifTool#Supported_file_types
+* https://en.wikipedia.org/wiki/Comparison_of_metadata_editors
+* https://en.wikipedia.org/wiki/ExifTool#Supported_file_types
 
 
 Some general info:
 
-General info:	 	    http://www.wefightcensorship.org/article/metadata-your-files-talk-youhtml.html
-
-Anonymising pdfs:      	    https://gist.github.com/hubgit/6078384
-
-General metadata stripping: https://securityinabox.org/en/lgbti-mena/remove-metadata/
+* General info:	 	    http://www.wefightcensorship.org/article/metadata-your-files-talk-youhtml.html
+* Anonymising pdfs:      	    https://gist.github.com/hubgit/6078384
+* General metadata stripping: https://securityinabox.org/en/lgbti-mena/remove-metadata/
