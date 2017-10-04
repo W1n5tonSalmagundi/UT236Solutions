@@ -9,7 +9,7 @@ Licensing contributions
 
 By knowingly adding your workings/solutions to this source, you agree to license your workings/solutions under the Creative Commons Zero Universal license.
 
-Summarized, this means you give up all rights to the work you've contributed, while retaining some legal protections and disclaimers to your benefit.
+Summarized, this means you give up all rights to the work you've contributed, while retaining some legal protections and disclaimers to your benefit. The CC0U license is the closest thing you can achieve to putting your work in the public domain while avoiding the rat's nests of legal frameworks around the world.
 
 If you want to know more clearly what these disclaimers and protections are, you may wish to read part 4 of the license stated in [LICENSE.txt](https://github.com/W1n5tonSalmagundi/UT236Solutions/blob/master/LICENSE.txt).
 
@@ -19,7 +19,7 @@ Making contributions
 
 You may wish to anonymize your work, both in the content and by deleting the metadata of submitted files. This is perfectly optional. See the section on anonymizing files for more information.
 
-You can add work and make directory changes as normal over github, or if you want to contribute anonymously or pseudononymously, [contact me over email](mailto:faris.alsalti@mail.utoronto.ca).
+You can add work and make directory changes as normal over github, or if you want to contribute anonymously or pseudononymously, [contact me over email](mailto:faris.alsalti@mail.utoronto.ca). The repo is updated sunday night, and on every odd weekday.
 
 Some workings and solutions will not be added for silly sounding but important concerns like long term scalability and academic integrity. Currently, only problem set answers and test/exam answers are excluded.
 
@@ -27,8 +27,6 @@ Some workings and solutions will not be added for silly sounding but important c
 
 Frequently asked questions
 --------------------------
-
-To be filled.
 
 
 
